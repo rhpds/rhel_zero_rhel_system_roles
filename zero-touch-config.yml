@@ -5,16 +5,16 @@ antora:
   dir: www
   modules:
     - name: index
-      label: Module 1
+      label: Add the Ansible repository.
     - name: module-02
-      label: Module 2
+      label: Inspecting a pre-made example and applying it.
     - name: module-03
-      label: Module 3
+      label: Verify the system roles and configurations were applied.
     - name: module-04
-      label: Module 4
+      label: Adding a new role and settings
     - name: module-05
-      label: Module 5
+      label: Update an existing setting
 tabs:
   - name: terminal
     port: 443
-    path: /wetty
+    path: /tty
