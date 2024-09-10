@@ -28,7 +28,7 @@ the rhel user.
 .Command
 [source,bash,subs="+macros,+attributes",role=execute]
 ----
-ssh -o "StrictHostKeyChecking no" rhel@localhost
+ssh -o "StrictHostKeyChecking no" rhel@rhel
 ----
 
 Here’s the output.
