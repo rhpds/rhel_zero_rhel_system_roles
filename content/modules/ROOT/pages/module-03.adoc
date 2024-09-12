@@ -63,7 +63,7 @@ For `client1`, repeat the following command.
 .Command
 [source,bash,subs="+macros,+attributes",role=execute]
 ----
-ssh -o "StrictHostKeyChecking no" rhel@client1
+ssh -o "StrictHostKeyChecking no" client1
 ----
 
 
