@@ -24,4 +24,4 @@ tabs:
     port: 443
     path: /tty2
     user: root
-    host: client1
+    host: client
