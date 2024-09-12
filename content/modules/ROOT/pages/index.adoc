@@ -10,7 +10,7 @@ command below into *> Shell*.
 .Command
 [source,bash,subs="+macros,+attributes",role=execute]
 ----
-dnf -y install rhel-system-roles
+sudo dnf -y install rhel-system-roles
 ----
 
 Here’s what the result should look similar to.
